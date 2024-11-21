@@ -269,7 +269,7 @@ No servers match your filter criteria
 == Нет серверов, подходящих под ваш фильтр
 
 Ok
-== ОК
+== Окей
 
 Parent Folder
 == Родительский каталог
